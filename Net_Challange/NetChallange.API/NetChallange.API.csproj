@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CoreLayer\NetChallange.Core.csproj" />
+    <ProjectReference Include="..\NetChallange.Core\NetChallange.Core.csproj" />
     <ProjectReference Include="..\NetChallange.Application\NetChallange.Application.csproj" />
     <ProjectReference Include="..\NetChallange.Infrastructure\NetChallange.Infrastructure.csproj" />
   </ItemGroup>
